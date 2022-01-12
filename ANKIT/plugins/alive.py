@@ -16,7 +16,7 @@ pm_caption += "• Dᴀᴛᴀʙᴀsᴇ Sᴛᴀᴛᴜs:  `Fᴜɴᴄᴛɪᴏɴᴀ�
 pm_caption += "• Cᴜʀʀᴇɴᴛ Bʀᴀɴᴄʜ : `ANKIT`\n"
 pm_caption += f"• Wᴏʀᴋᴇʀ Oғ : {ALIVE_NAME} \n"
 pm_caption += "• Hᴇʀᴏᴋᴜ Dᴀᴛᴀʙᴀsᴇ : `AWS - ωοяκíиg ρяορєяℓγ`\n\n"
-pm_caption += "• Cᴏᴘʏʀɪɢʜᴛ ϐγ : [©LEGEND-ANKIT™](https://github.com/LEGEND-ANKIT)\n\n"
+pm_caption += "• Cᴏᴘʏʀɪɢʜᴛ ϐγ : `©ANKIT KUMAR™`\n\n"
 pm_caption += "• Mᴀᴅᴇ ʙʏ : [©LEGEND-ANKIT™](https://github.com/LEGEND-ANKIT)"
 
 

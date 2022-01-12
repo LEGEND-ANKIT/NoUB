@@ -10,7 +10,7 @@ import os
 anie786 = os.environ.get("PM_IMG", None)
 if not anie786:
  anie786 = "https://telegra.ph/file/b002d63974bd05ea7a336.jpg"
-pm_caption = "• [ #NoUB ] Sᴘᴀᴍᴍᴇʀ ɪs: Oɴʟɪɴᴇ\n\n"
+pm_caption = "• ANKIT Sᴘᴀᴍᴍᴇʀ ɪs: Oɴʟɪɴᴇ\n\n"
 pm_caption += "• Pʏᴛʜᴏɴ: 3.9.7 \n"
 pm_caption += "• Dᴀᴛᴀʙᴀsᴇ Sᴛᴀᴛᴜs:  Fᴜɴᴄᴛɪᴏɴᴀʟ\n"
 pm_caption += "• Cᴜʀʀᴇɴᴛ Bʀᴀɴᴄʜ : `ANKIT`\n"

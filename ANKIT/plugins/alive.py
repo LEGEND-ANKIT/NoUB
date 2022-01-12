@@ -8,7 +8,7 @@ currentversion = "ONLY ONE"
 ALIVE_NAME = str(ALIVE_NAME) if ALIVE_NAME else "©ANKIT™"
 import os
 anie786 = os.environ.get("PM_IMG", None)
-if not amaan786:
+if not anie786:
  anie786 = "https://telegra.ph/file/b002d63974bd05ea7a336.jpg"
 pm_caption = "• **[ #NoUB ] Sᴘᴀᴍᴍᴇʀ ɪs:** `Oɴʟɪɴᴇ`\n\n"
 pm_caption += "• **Pʏᴛʜᴏɴ:** `3.9.7` \n"

@@ -10,14 +10,14 @@ import os
 anie786 = os.environ.get("PM_IMG", None)
 if not anie786:
  anie786 = "https://telegra.ph/file/b002d63974bd05ea7a336.jpg"
-pm_caption = "• **[ #NoUB ] Sᴘᴀᴍᴍᴇʀ ɪs:** `Oɴʟɪɴᴇ`\n\n"
-pm_caption += "• **Pʏᴛʜᴏɴ:** `3.9.7` \n"
-pm_caption += "• **Dᴀᴛᴀʙᴀsᴇ Sᴛᴀᴛᴜs:**  `Fᴜɴᴄᴛɪᴏɴᴀʟ`\n"
-pm_caption += "• **Cᴜʀʀᴇɴᴛ Bʀᴀɴᴄʜ** : `ANKIT`\n"
-pm_caption += f"• **Wᴏʀᴋᴇʀ Oғ** : {ALIVE_NAME} \n"
-pm_caption += "• **Hᴇʀᴏᴋᴜ Dᴀᴛᴀʙᴀsᴇ** : `AWS - ωοяκíиg ρяορєяℓγ`\n\n"
-pm_caption += "• **Cᴏᴘʏʀɪɢʜᴛ** : ϐγ [©LEGEND-ANKIT™](https://github.com/LEGEND-ANKIT)\n\n"
-pm_caption += "[Mᴀᴅᴇ ʙʏ 『©LEGEND-ANKIT™』 ](https://github.com/LEGEND-ANKIT)"
+pm_caption = "• [ #NoUB ] Sᴘᴀᴍᴍᴇʀ ɪs: `Oɴʟɪɴᴇ`\n\n"
+pm_caption += "• Pʏᴛʜᴏɴ: `3.9.7` \n"
+pm_caption += "• Dᴀᴛᴀʙᴀsᴇ Sᴛᴀᴛᴜs:  `Fᴜɴᴄᴛɪᴏɴᴀʟ`\n"
+pm_caption += "• Cᴜʀʀᴇɴᴛ Bʀᴀɴᴄʜ : `ANKIT`\n"
+pm_caption += f"• Wᴏʀᴋᴇʀ Oғ : {ALIVE_NAME} \n"
+pm_caption += "• Hᴇʀᴏᴋᴜ Dᴀᴛᴀʙᴀsᴇ : `AWS - ωοяκíиg ρяορєяℓγ`\n\n"
+pm_caption += "• Cᴏᴘʏʀɪɢʜᴛ ϐγ : [©LEGEND-ANKIT™](https://github.com/LEGEND-ANKIT)\n\n"
+pm_caption += "• Mᴀᴅᴇ ʙʏ : [©LEGEND-ANKIT™](https://github.com/LEGEND-ANKIT)"
 
 
 @worker.on(events.NewMessage(incoming=True, pattern="^/alive"))
